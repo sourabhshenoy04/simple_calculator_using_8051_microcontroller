@@ -1,1 +1,1 @@
-# project_using_8051_microcontroller
+#Calculator using 8051 microcontroller
